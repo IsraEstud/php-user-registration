@@ -82,7 +82,7 @@ php -S localhost:8000
 ## 📁 Estructura de Archivos
 
 ```
-desarrollo-web-server-side/
+register-form-php/
 ├── registro.php          # Formulario HTML + Tailwind CSS
 ├── procesar.php          # Lógica de validación y procesamiento
 └── README.md            # Esta documentación
@@ -184,4 +184,3 @@ sudo chmod -R 755 /var/www/formulario/
 ---
 
 **Nota:** Este proyecto está diseñado como material educativo para entender los fundamentos del desarrollo web del lado servidor. Para producción, considera implementar medidas de seguridad adicionales y una base de datos persistente.
-
