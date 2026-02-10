@@ -1,5 +1,9 @@
 # Formulario de Registro Básico - PHP
 
+<p align="center">
+  <img src="image.png" alt="Vista previa del formulario" width="600">
+</p>
+
 Un sistema de registro de usuarios simple y funcional desarrollado en PHP con validación del lado del servidor y una interfaz moderna construida con Tailwind CSS.
 
 ## 📋 Características
